@@ -1,4 +1,4 @@
 test git in nas
 line 2 to GitHub
 test branch dev
-switch back to master
+make conflict disapper
