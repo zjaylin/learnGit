@@ -3,3 +3,4 @@ line 2 to GitHub
 test branch dev
 make conflict disapper
 try another line
+test stash
